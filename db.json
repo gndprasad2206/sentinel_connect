@@ -1,4 +1,4 @@
- [
+[
     {
       country: 'USA',
       hydro: 59.8,
@@ -47,5 +47,5 @@
       coal: 85.7,
       nuclear: 37.8,
     },
-  ]
+]
  
