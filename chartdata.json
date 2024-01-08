@@ -1,32 +1,28 @@
 [
     {
-        "state": "Germany",
-        "young": 5.3,
-        "middle": 26,
-        "older": 8
+        "api": "Hari",
+        "success": 53,
+        "failuer": 26
+        
     },
     {
-        "state": "Japan",
-        "young": 6.45,
-        "middle": 30.5,
-        "older": 11.22
+       "api": "pavan",
+        "success": 3,
+        "failuer": 6
     },
     {
-        "state": "Russia",
-        "young": 12.56,
-        "middle": 45.5,
-        "older": 6.5
+        "api": "prasad",
+        "success": 23,
+        "failuer": 16
     },
     {
-        "state": "USA",
-        "young": 32,
-        "middle": 87,
-        "older": 15
+        "api": "api1",
+        "success": 53,
+        "failuer": 26
     },
     {
-        "state": "India",
-        "young": 42,
-        "middle": 32,
-        "older": 13
+        "api": "api2",
+        "success": 33,
+        "failuer": 56
     }
 ]
